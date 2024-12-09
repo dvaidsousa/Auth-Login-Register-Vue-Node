@@ -38,7 +38,7 @@ by David
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/dvaidsousa/Auth-Login-Register-Vue-Node.git
    ```
    (Renomeie o arquivo `.env.example` para `.env` e configure as informações do seu banco de dados)
 
